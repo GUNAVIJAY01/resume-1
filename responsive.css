@@ -1,0 +1,34 @@
+@media(max-width:576px){
+.left{
+		background-color:#FFC815;
+		position:absolute;
+		font-size:20px;
+		padding:5px 15px;
+		color:white;
+		border:none;
+	bottom:5%;
+	right:20%;
+}
+.right{
+		background-color:#FFC815;
+		position:absolute;
+		font-size:20px;
+		padding:5px 15px;
+		color:white;
+		border:none;
+	bottom:5%;
+	right:5%;
+	}
+.jerry-1{
+	position:fixed;
+	top:0;
+	z-index:999;
+}
+.sticky{
+	position:sticky;
+	top:0;
+	padding:15px;
+	z-index:999;
+}
+
+}
